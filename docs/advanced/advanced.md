@@ -1,5 +1,10 @@
 # How-to and FAQ
 
+```{proof:proof} this is a test.
+
+Which conitnues here...
+```
+
 This page contains more advanced and complete information about the
 [`jupyter-book` repository](https://github.com/executablebooks/jupyter-book). See the sections below.
 

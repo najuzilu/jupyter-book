@@ -92,3 +92,4 @@ sphinx:
     - sphinx_click.ext
     - sphinx_tabs.tabs
     - sphinxext.rediraffe
+    - sphinxcontrib.prettyproof
